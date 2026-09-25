@@ -37,3 +37,17 @@ This repository contains my Python Assignment 1
 ## Tools Used
 
 Jupyter Notebook
+
+# Python Assignment 2
+
+This assignment covers basic Python data structures and conditional statements.
+
+### Topics Covered
+
+Lists – creation, modification, sorting, and accessing elements
+Dictionaries – creation, updating, and accessing data
+Sets – unique values, union, and intersection
+Conditional Statements – if, elif, and else
+Performance category program based on user input
+
+The assignment helps demonstrate the basic use of Python data structures and decision-making statements.
