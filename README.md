@@ -51,3 +51,26 @@ Conditional Statements – if, elif, and else
 Performance category program based on user input
 
 The assignment helps demonstrate the basic use of Python data structures and decision-making statements.
+
+
+# Python Assignment 3
+
+## Topics Covered
+- While Loop and Control Statements
+- For Loop
+- Functions
+
+## Programs
+
+### 1. Number Guessing Game
+A simple guessing game using a `while` loop, `break`, `continue`, and `else`.
+
+### 2. Multiplication Table Generator
+Generates a multiplication table from 1 to 10 using a `for` loop and `range()`.
+
+### 3. BMI Calculator
+Calculates Body Mass Index (BMI) using a Python function.
+
+## Technologies Used
+- Python
+- Jupyter Notebook
